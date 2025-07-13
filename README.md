@@ -35,20 +35,6 @@ This toolkit allows you to upload a CSV of company leads and quickly:
 
 ---
 
-## 📦 Folder Structure
-📁 saasquatchleads-project/
-├── app/
-│ ├── lead_filter.py
-│ ├── lead_tagger.py
-│ ├── crm_exporter.py
-│ └── email_verifier.py
-├── sample_leads.csv
-├── requirements.txt
-├── streamlit_app.py
-└── README.md
-
----
-
 ## 🚀 How to Run It
 
 1. **Clone this repository**  
